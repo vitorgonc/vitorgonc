@@ -1,4 +1,9 @@
-### Hi there 👋
+### Ola, sou o Vitor!!! 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorgonc&show_icons=true&count_private=true&theme=gruvbox&text_color=bf9c0f&icon_color=f7da63&bg_color=0f0d06)](https://github.com/vitorgonc/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonc&layout=compact&text_color=bf9c0f&icon_color=f7da63&bg_color=0f0d06&title_color=fabd2f&hide_border=true)](https://github.com/vitorgonc/github-readme-stats)
+
 
 <!--
 **vitorgonc/vitorgonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
